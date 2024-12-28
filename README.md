@@ -1,1 +1,1 @@
-# ml-and-analytics-python
+# data-insights-python
